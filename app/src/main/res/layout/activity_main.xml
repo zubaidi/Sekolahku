@@ -28,11 +28,25 @@
                 android:layout_weight="1"
                 android:layout_marginRight="20dp"
                 android:fontFamily="sans-serif"
-                android:gravity="center"
+                android:gravity="center_vertical"
                 android:text="SMK Syafi'i Akrom Pekalongan"
                 android:textColor="#ffffff"
                 android:textSize="18sp"
                 android:textStyle="bold" />
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="20dp"
+                app:cardBackgroundColor="#ffffff"
+                app:cardCornerRadius="40dp">
+                <ImageView
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:src="@drawable/smksa_prev_ui"
+                    android:layout_gravity="center"/>
+            </androidx.cardview.widget.CardView>
         </LinearLayout>
     </androidx.appcompat.widget.Toolbar>
 
