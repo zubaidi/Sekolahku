@@ -77,7 +77,8 @@
                     android:layout_margin="10dp"
                     android:layout_weight="1"
                     app:cardBackgroundColor="#2a9d8f"
-                    app:cardCornerRadius="20dp">
+                    app:cardCornerRadius="20dp"
+                    android:onClick="menuJadwal">
 
                     <ImageView
                         android:layout_width="100dp"
@@ -103,7 +104,8 @@
                     android:layout_margin="10dp"
                     android:layout_weight="1"
                     app:cardBackgroundColor="#2a9d8f"
-                    app:cardCornerRadius="20dp">
+                    app:cardCornerRadius="20dp"
+                    android:onClick="menuDataGuru">
 
                     <ImageView
                         android:layout_width="100dp"
@@ -135,7 +137,8 @@
                     android:layout_margin="10dp"
                     android:layout_weight="1"
                     app:cardBackgroundColor="#e76f51"
-                    app:cardCornerRadius="20dp">
+                    app:cardCornerRadius="20dp"
+                    android:onClick="menuGaleri">
 
                     <ImageView
                         android:layout_width="100dp"
@@ -161,7 +164,8 @@
                     android:layout_margin="10dp"
                     android:layout_weight="1"
                     app:cardBackgroundColor="#e76f51"
-                    app:cardCornerRadius="20dp">
+                    app:cardCornerRadius="20dp"
+                    android:onClick="menuBKK">
 
                     <ImageView
                         android:layout_width="100dp"
@@ -193,7 +197,8 @@
                     android:layout_margin="10dp"
                     android:layout_weight="1"
                     app:cardBackgroundColor="#f4a261"
-                    app:cardCornerRadius="20dp">
+                    app:cardCornerRadius="20dp"
+                    android:onClick="menuJurusan">
 
                     <ImageView
                         android:layout_width="100dp"
@@ -219,7 +224,8 @@
                     android:layout_margin="10dp"
                     android:layout_weight="1"
                     app:cardBackgroundColor="#f4a261"
-                    app:cardCornerRadius="20dp">
+                    app:cardCornerRadius="20dp"
+                    android:onClick="menuBerita">
 
                     <ImageView
                         android:layout_width="100dp"
@@ -251,7 +257,8 @@
                     android:layout_margin="10dp"
                     android:layout_weight="1"
                     app:cardBackgroundColor="#ff9f1c"
-                    app:cardCornerRadius="20dp">
+                    app:cardCornerRadius="20dp"
+                    android:onClick="menuPPDB">
 
                     <ImageView
                         android:layout_width="100dp"
@@ -277,7 +284,8 @@
                     android:layout_margin="10dp"
                     android:layout_weight="1"
                     app:cardBackgroundColor="#ff9f1c"
-                    app:cardCornerRadius="20dp">
+                    app:cardCornerRadius="20dp"
+                    android:onClick="menuTentang">
 
                     <ImageView
                         android:layout_width="100dp"
